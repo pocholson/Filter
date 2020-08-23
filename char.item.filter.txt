@@ -39,18 +39,18 @@ ItemDisplay[cx5]: %PURPLE%Orb of Corruption
 ItemDisplay[cx6]: %PURPLE%Diablo's Soulstone
 ItemDisplay[cx7]: %PURPLE%¤¤¤ KEY OF CHAOS ¤¤¤
 ItemDisplay[cx8]: %PURPLE%Enchantment Orb
-ItemDisplay[cx9]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma1]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma2]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma3]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma4]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma5]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma6]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma7]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma8]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma9]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[ma10]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
-ItemDisplay[maz]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
+ItemDisplay[cx9]: %ORANGE%%NAME%
+ItemDisplay[ma1]: %ORANGE%%NAME%
+ItemDisplay[ma2]: %ORANGE%%NAME%
+ItemDisplay[ma3]: %ORANGE%%NAME%
+ItemDisplay[ma4]: %ORANGE%%NAME%
+ItemDisplay[ma5]: %ORANGE%%NAME%
+ItemDisplay[ma6]: %ORANGE%%NAME%
+ItemDisplay[ma7]: %ORANGE%%NAME%
+ItemDisplay[ma8]: %ORANGE%%NAME%
+ItemDisplay[ma9]: %ORANGE%%NAME%
+ItemDisplay[ma10]: %ORANGE%%NAME%
+ItemDisplay[maz]: %ORANGE%%NAME%
 ItemDisplay[UNI !ID cm4]: %RED%  ¤ Horadrim Sigil ¤  %RED%
 //Wirt's Leg
 ItemDisplay[leg]: %ORANGE%O%ORANGE%%NAME%%ORANGE%O
